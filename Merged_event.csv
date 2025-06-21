@@ -1,0 +1,123 @@
+Date,Time,Event Name,Event Description,Traffic Level
+10-01-2015,18:00,Concert,NH7 Weekender Afterparty,High
+24-01-2015,17:30,Concert,Shankar-Ehsaan-Loy Live,High
+07-02-2015,19:00,Concert,Sunburn Campus,High
+14-02-2015,18:00,Concert,Valentine’s Day Live Music Night,High
+28-02-2015,17:00,Concert,EVC Pre-party,Medium
+15-03-2015,16:00,Concert,Coke Studio Live,High
+21-03-2015,18:30,Concert,Indian Ocean Band Live,Medium
+11-07-2015,17:00,Concert,NH7 Express Gig,Medium
+15-08-2015,18:00,Concert,Independence Day Musical Evening,Low
+21-11-2015,15:00,Concert,NH7 Weekender Festival – Day 1,Very High
+22-11-2015,15:00,Concert,NH7 Weekender Festival – Day 2,Very High
+23-11-2015,15:00,Concert,NH7 Weekender Festival – Day 3,High
+12-12-2015,18:00,Concert,Arijit Singh Live,Very High
+09-01-2016,18:00,Concert,NH7 Weekender Afterparty,High
+30-01-2016,17:30,Concert,Sunburn Reload,High
+13-02-2016,18:00,Concert,Valentine’s Day Concert,High
+05-03-2016,16:00,Concert,Bollywood Night Live,Very High
+20-03-2016,18:00,Concert,Folk Music Festival,Medium
+09-04-2016,19:00,Concert,Rockathon Pune,Medium
+30-07-2016,17:00,Concert,Coke Studio Experience,High
+13-08-2016,18:00,Concert,Independence Eve Music Bash,Medium
+15-08-2016,18:00,Concert,Patriotic Music Special,Low
+26-11-2016,15:00,Concert,NH7 Weekender – Day 1,Very High
+27-11-2016,15:00,Concert,NH7 Weekender – Day 2,Very High
+28-11-2016,15:00,Concert,NH7 Weekender – Day 3,High
+10-12-2016,18:00,Concert,Armaan Malik Live,Very High
+14-01-2017,18:00,Concerts,Sunburn Arena: Alan Walker,Very High
+04-02-2017,19:00,Concerts,Bollywood Retro Night,High
+25-02-2017,17:30,Concerts,NH7 Express - Indie Night,Medium
+18-03-2017,16:00,Concerts,Folk Rock Fusion Festival,Medium
+08-04-2017,18:30,Concerts,Electronic Nights Festival,High
+24-06-2017,17:00,Concerts,Summer Beats Live,High
+15-08-2017,18:00,Concerts,Independence Day Rock Concert,Low
+09-09-2017,18:00,Concerts,Coke Studio Live,Very High
+21-10-2017,17:00,Concerts,Pre-Diwali Musical Night,Medium
+24-11-2017,15:00,Concerts,NH7 Weekender – Day 1,Very High
+25-11-2017,15:00,Concerts,NH7 Weekender – Day 2,Very High
+26-11-2017,15:00,Concerts,NH7 Weekender – Day 3,High
+16-12-2017,19:00,Concerts,Arijit Singh Live,Very High
+26-01-2015,09:00,Public Holiday,Republic Day Celebrations,High
+15-02-2015,07:00,Sports Event,Pune International Marathon,High
+08-03-2015,10:00,Public Demonstration,Women's Day Parade (JM Road),High
+02-04-2015,00:00,Public Holiday,Mahavir Jayanti,Low
+14-04-2015,00:00,Public Holiday,Ambedkar Jayanti Rally (Swargate area),High
+01-05-2015,00:00,Public Holiday,Maharashtra Day Parade (Shivajinagar),High
+21-06-2015,06:00,Sports Event,International Yoga Day (Group event at SP College Ground),Medium
+18-07-2015,11:00,Public Demonstration,Auto Rickshaw Union Protest (RTO Circle),High
+15-08-2015,08:00,Public Holiday,Independence Day Celebrations (District Ground),High
+17-09-2015,07:00,Public Holiday,Ganesh Visarjan (City-wide processions),High
+02-10-2015,00:00,Public Holiday,Gandhi Jayanti,Low
+11-10-2015,06:30,Sports Event,Pune City Cyclothon,Medium
+11-11-2015,18:00,Public Holiday,Diwali Evening (Shopping rush at Laxmi Road),High
+06-12-2015,09:00,Public Demonstration,Bhim Jayanti Rally (Vishrantwadi to Deccan),High
+25-12-2015,00:00,Public Holiday,Christmas Day,Low
+18-02-2016,10:00, Sports tournament,UBA Pro Basketball League Season?2 kickoff at Balewadi, High
+03-03-2016,09:00, Sports event,ABU Robocon India 2016 at Shree Shiv Chhatrapati Complex, High
+04-03-2016,09:00, Sports event,ABU Robocon India 2016 at Shree Shiv Chhatrapati Complex, High
+05-03-2016,09:00, Sports event,ABU Robocon India 2016 at Shree Shiv Chhatrapati Complex, High
+10-07-2016,05:25, Sports marathon,Fit India 5?K Run, High
+16-10-2016,05:30, Sports marathon,Pune Running Beyond Myself 2016 (Marathon + 4 races), High
+24-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+25-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+26-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+27-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+28-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+29-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+30-10-2016,10:00, Sports tournament,2016 KPIT MSLTA Challenger Tennis, High
+04-12-2016,06:00, Marathon,Pune International Marathon (5k/10k), High
+26-01-2016,00:00, Public Holiday,Republic Day, High
+19-02-2016,00:00, Public Holiday,Chhatrapati Shivaji Jayanti, High
+07-03-2016,00:00, Public Holiday,Mahashivratri, High
+24-03-2016,00:00, Public Holiday,Holi, Moderate
+25-03-2016,00:00, Public Holiday,Good Friday, Moderate
+08-04-2016,00:00, Public Holiday,Ugadi, Moderate
+14-04-2016,00:00, Public Holiday,Ambedkar Jayanti, Moderate
+15-04-2016,00:00, Public Holiday,Ram Navami, Moderate
+01-05-2016,00:00, Public Holiday,Maharashtra Day, High
+08-07-2016,00:00, Public Holiday,Eid?ul?Fitr (Ramzan Id), Moderate
+15-08-2016,00:00, Public Holiday,Independence Day, High
+05-09-2016,00:00, Public Holiday,Ganesh Chaturthi, High
+13-09-2016,00:00, Public Holiday,Eid?ul?Zuha (Bakrid), Moderate
+02-10-2016,00:00, Public Holiday,Gandhi Jayanti, Moderate
+11-10-2016,00:00, Public Holiday,Dasara, Moderate
+12-10-2016,00:00, Public Holiday,Muharram, Moderate
+30-10-2016,00:00, Public Holiday,Diwali (Amavasya), High
+31-10-2016,00:00, Public Holiday,Diwali, High
+14-11-2016,00:00, Public Holiday,Guru Nanak Jayanti, Moderate
+12-12-2016,00:00, Public Holiday,Id?E?Milad, Moderate
+25-12-2016,00:00, Public Holiday,Christmas, Moderate
+07-08-2016,10:00, Public demonstration,Pune Pride Parade from Sambhaji Park to JM?Road, High
+25-09-2016,14:00, Public demonstration,Maratha Kranti Morcha silent march (Deccan Gymkhana to Council Hall), High
+29-01-2017,05:00,Marathon,Pune International Marathon (31st  Jan),High
+06-04-2017,18:30,Sports game,Rising Pune Supergiant vs Mumbai Indians (IPL match),High
+29-04-2017,18:00,Sports game,Rising Pune Supergiant vs RCB (IPL match),High
+11-06-2017,10:30,Public demonstration,Pune Pride Parade (JM Road?FC Road?Garware),High
+13-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+14-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+15-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+16-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+17-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+18-11-2017,10:00,Sports tournament,2017 KPIT MSLTA Challenger (Tennis),High
+03-12-2017,05:00,Marathon,Pune International Marathon (32nd  Dec),High
+26-01-2017,00:00,Public Holiday,Republic Day,High
+19-02-2017,00:00,Public Holiday,Chhatrapati Shivaji Maharaj Jayanti,High
+24-02-2017,00:00,Public Holiday,Maha Shivratri,Moderate
+13-03-2017,00:00,Public Holiday,Holi,Moderate
+28-03-2017,00:00,Public Holiday,Gudi Padwa,Moderate
+04-04-2017,00:00,Public Holiday,Ram Navami,Moderate
+14-04-2017,00:00,Public Holiday,Ambedkar Jayanti / Good Friday,Moderate
+01-05-2017,00:00,Public Holiday,Maharashtra Day,High
+26-06-2017,00:00,Public Holiday,Eid?ul?Fitr,Moderate
+15-08-2017,00:00,Public Holiday,Independence Day,High
+17-08-2017,00:00,Public Holiday,Parsi New Year,Moderate
+25-08-2017,00:00,Public Holiday,Ganesh Chaturthi,High
+02-09-2017,00:00,Public Holiday,Eid?ul?Zuha (Bakrid),Moderate
+30-09-2017,00:00,Public Holiday,Dussehra,Moderate
+01-10-2017,00:00,Public Holiday,Muharram,Moderate
+02-10-2017,00:00,Public Holiday,Gandhi Jayanti,Moderate
+19-10-2017,00:00,Public Holiday,Diwali Amavasya (Laxmi Puja),High
+20-10-2017,00:00,Public Holiday,Diwali (Balipratipada),High
+04-11-2017,00:00,Public Holiday,Guru Nanak Jayanti,Moderate
+25-12-2017,00:00,Public Holiday,Christmas,Moderate
